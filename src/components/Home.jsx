@@ -7,7 +7,7 @@ const ROLE    = 'Software Tester |QA Tester| Automation Tester'
 const TAGLINE = 'Passionate Software Tester | Finding Defects, Delivering Quality.'
 const GITHUB  = 'https://github.com/Sumitp0112'
 const LINKEDIN= 'https://www.linkedin.com/in/sumitpatil2010/'
-const PROFILE_IMG = 'My_Portfolio/sumit.jpeg'   // put image in /public and uncomment
+const PROFILE_IMG = '/My_Portfolio/sumit.jpeg'   // put image in /public and uncomment
 // ─────────────────────────────────────────────────────────────────────────
 
 
@@ -128,7 +128,7 @@ export default function Home() {
       {/* Image Container */}
       <div className="w-full h-full rounded-full overflow-hidden bg-slate-900">
         <img
-          src="My_Portfolio/sumit.jpeg"
+          src="/My_Portfolio/sumit.jpeg"
           alt={NAME}
           className="w-full h-full object-cover object-top"
         />
