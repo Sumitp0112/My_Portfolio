@@ -128,7 +128,7 @@ export default function Home() {
       {/* Image Container */}
       <div className="w-full h-full rounded-full overflow-hidden bg-slate-900">
         <img
-          src="/sumit.jpeg"
+          src="My_Portfolio/sumit.jpeg"
           alt={NAME}
           className="w-full h-full object-cover object-top"
         />
