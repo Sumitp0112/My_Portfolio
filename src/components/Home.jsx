@@ -7,8 +7,9 @@ const ROLE    = 'Software Tester |QA Tester| Automation Tester'
 const TAGLINE = 'Passionate Software Tester | Finding Defects, Delivering Quality.'
 const GITHUB  = 'https://github.com/Sumitp0112'
 const LINKEDIN= 'https://www.linkedin.com/in/sumitpatil2010/'
-const PROFILE_IMG = '/sumit.jpeg'   // put image in /public and uncomment
+const PROFILE_IMG = 'My_Portfolio/sumit.jpeg'   // put image in /public and uncomment
 // ─────────────────────────────────────────────────────────────────────────
+
 
 export default function Home() {
   return (
