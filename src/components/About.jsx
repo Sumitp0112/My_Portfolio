@@ -5,7 +5,7 @@ import { scrollTo } from './Navbar'
 const ABOUT = {
   name:        'Sumit Patil',
   email:       'sumitpatil9931@gmail.com ⋄',
-  location:    'Jalgaon, India',
+  location:    'Jalgaon, Maharashtra',
   degree:      'Bachelor of Engineering in Computer Engineering',
   experience:  'Fresh Graduate',
   bio1: 'Motivated and detail-oriented QA Engineer with hands-on experience in Manual Testing, API Testing, and Selenium Automation Testing. Strong understanding of Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC), defect management, and test case design techniques',
@@ -30,7 +30,7 @@ export default function About() {
             <div className="relative w-full aspect-square rounded-2xl bg-gray-900 border border-white/10
               flex items-center justify-center text-8xl shadow-xl">
               
-              <img src="/sumit.jpeg" alt="Profile" />
+              <img src="/My_Portfolio/sumit.jpeg" alt="Profile" />
             </div>
           </div>
         </motion.div>
